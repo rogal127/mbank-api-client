@@ -1,0 +1,18 @@
+{
+    "name": "rogal127/mbank-api-client",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rogal127\\MbankApiClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rogal127",
+            "email": "rogal127@gmail.com"
+        }
+    ],
+    "require": {
+        "saloonphp/saloon": "^3.11"
+    }
+}
